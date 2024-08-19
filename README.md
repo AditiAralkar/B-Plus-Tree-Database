@@ -14,3 +14,8 @@ of files. Database tuples will be stores as a .txt file in DBFiles folder corres
 1. It is a right biased tree. By this it means , if maxLimits tree will be split in such a way that right sibling has one element greater.
 
 2. Insertion is based on the primary key. Hence all the properties of the primary key has to be followed. No dublicate insertion has to be done with same primary key!
+
+## Default DataBase Schema :
+
+This DataBase Schema looks like this -
+
