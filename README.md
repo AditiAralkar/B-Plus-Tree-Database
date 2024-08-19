@@ -19,3 +19,4 @@ of files. Database tuples will be stores as a .txt file in DBFiles folder corres
 
 This DataBase Schema looks like this -
 
+![Screenshot 2024-08-19 210908](https://github.com/user-attachments/assets/daa4b724-c875-4cca-aa53-6532f1dd356a)
